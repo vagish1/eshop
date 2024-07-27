@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69348205711",
+    "project_id": "eshop-task-proj",
+    "storage_bucket": "eshop-task-proj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69348205711:android:ebadd4e8ccfbaf9734fcfa",
+        "android_client_info": {
+          "package_name": "app.hashinclude.eshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYfMUqBB8PPB7-JzxznTh0cGr8aSQKSMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
